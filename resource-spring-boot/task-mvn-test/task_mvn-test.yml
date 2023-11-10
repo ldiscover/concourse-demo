@@ -10,6 +10,6 @@ run:
   path: mvn
   args:
   - -f
-  - spring-boot-service/pom.xml
+  - resource-spring-boot/pom.xml
   - clean
   - test
