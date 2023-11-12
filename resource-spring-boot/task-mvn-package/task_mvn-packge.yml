@@ -15,7 +15,7 @@ run:
   - -f
   - resource-spring-boot/resource-spring-boot/pom.xml
   - clean
-  - test
+  - package
 outputs:
   - name: spring-boot-service-out
     path: resource-spring-boot
