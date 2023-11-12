@@ -7,7 +7,7 @@ image_resource:
     repository: maven
     tag: 3.6.0-jdk-8-alpine
 inputs:
-  - name: resource-spring-boot
+- name: resource-spring-boot
 run:
   path: mvn
   args:
