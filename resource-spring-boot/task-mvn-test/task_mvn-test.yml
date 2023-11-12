@@ -15,4 +15,4 @@ run:
   - -f
   - resource-spring-boot/resource-spring-boot/pom.xml
   - clean
-  - package
+  - test
