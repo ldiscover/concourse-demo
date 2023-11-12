@@ -1,4 +1,6 @@
 platform: linux
+caches:
+  - path: $HOME/.m2/repository/
 image_resource:
   type: docker-image
   source:
